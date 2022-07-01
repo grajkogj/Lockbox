@@ -1,0 +1,7 @@
+.vs
+Bin/Debug
+Bin/Release
+Encryption/x64
+UserInterface/bin
+UserInterface/obj
+UserInterface/Debug
